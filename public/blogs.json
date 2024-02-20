@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "title": "The Art of Quantum Gardening",
+        "cover_img": "https://i.ibb.co/0fqpbG4/brooke-cagle-WHWYBmtn3-0-unsplash.jpg",
+        "author_name": "Aurora Starchaser",
+        "author_img": "../src/assets/images/boy2.png",
+        "posted_date": "2024-02-17",
+        "reading_time": 7,
+        "hashtags": [
+            "quantum",
+            "gardening",
+            "nature"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Unraveling the Mysteries of Time-Travel Cuisine",
+        "cover_img": "https://i.ibb.co/p1NdSW0/my-life-through-a-lens-bq31-L0j-QAj-U-unsplash.jpg",
+        "author_name": "Maxwell Flavors",
+        "author_img": "../src/assets/images/boy1.png",
+        "posted_date": "2024-02-16",
+        "reading_time": 5,
+        "hashtags": [
+            "time_travel",
+            "food",
+            "science"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "The Ultimate Guide to Interstellar Yoga",
+        "cover_img": "https://i.ibb.co/NmbqVNd/brooke-cagle-g1-Kr4-Ozfoac-unsplash.jpg",
+        "author_name": "Luna Moonbeam",
+        "author_img": "../src/assets/images/girl2.jpg",
+        "posted_date": "2024-02-15",
+        "reading_time": 8,
+        "hashtags": [
+            "yoga",
+            "space",
+            "health"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Cryptid Spotting 101: Finding Bigfoot and Friends",
+        "cover_img": "https://i.ibb.co/0fqpbG4/brooke-cagle-WHWYBmtn3-0-unsplash.jpg",
+        "author_name": "Xander Crypto",
+        "author_img": "../src/assets/images/girl1.jpg",
+        "posted_date": "2024-02-14",
+        "reading_time": 6,
+        "hashtags": [
+            "cryptids",
+            "mystery",
+            "adventure"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Astrobiology: Searching for Alien Microbes",
+        "cover_img": "https://i.ibb.co/p1NdSW0/my-life-through-a-lens-bq31-L0j-QAj-U-unsplash.jpg",
+        "author_name": "Nova Stardust",
+        "author_img": "../src/assets/images/boy1.png",
+        "posted_date": "2024-02-13",
+        "reading_time": 10,
+        "hashtags": [
+            "astrobiology",
+            "space",
+            "biology"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "The Secret Language of Plants: Communicating with Flora",
+        "cover_img": "https://i.ibb.co/NmbqVNd/brooke-cagle-g1-Kr4-Ozfoac-unsplash.jpg",
+        "author_name": "Sage Greenleaf",
+        "author_img": "../src/assets/images/boy1.png",
+        "posted_date": "2024-02-12",
+        "reading_time": 7,
+        "hashtags": [
+            "plants",
+            "nature",
+            "communication"
+        ]
+    }
+]
